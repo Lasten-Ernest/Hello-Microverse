@@ -1,56 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+Hello Microverse
 
-> Description the project.
+> Description of the project.
+> This is the first project under Microverse full stack website development. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML for structure 
+- CSS for styling the page
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+ # To get a local copy up and running follow these simple example steps.
 
 
-To get a local copy up and running follow these simple example steps.
+** To run the project, make sure you have a browser installed. 
+** Make sure the css and html files are in the same folder. 
+** Click on the firstProject.html file and you are good to go.
 
-### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+**** You are free to Modify this file to match your project desire. 
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Ernest Lasten**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest/Hello-Microverse)
+- Twitter: [@Lasten-Ernest](https://twitter.com/Lasten-Ernest)
+- LinkedIn: [ernest-lasten](https://linkedin.com/in/ernest-lasten)
 
 ## 🤝 Contributing
 
@@ -60,13 +41,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Give a ⭐️ if you like this project! This will help me improve the myself and the project as well.
 
 ## 📝 License
 
